@@ -1,3 +1,3 @@
 # FrankieCao1.github.io
 
-![Teapot](tea-drawing.webp)
+![Teapot](/combos/tea-drawing.webp)
